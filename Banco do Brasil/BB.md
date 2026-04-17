@@ -8,7 +8,6 @@
     
 - **Atualidades do Mercado Financeiro** – 5 questões (5 pontos)
     
-
 ### 🔹 Conhecimentos Específicos (45 questões – 67,5 pontos)
 
 - **Matemática Financeira** – 5 questões (7,5 pontos)

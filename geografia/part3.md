@@ -1,0 +1,5 @@
+(3:00 – 4:00) Bloco 3: Tecnologia e Controle de Rotas
+Locutor:
+"A geopolítica também se traduz em controle físico e tecnológico. Vivemos uma Guerra Fria Tecnológica. A disputa sobre Chips e 5G é, na verdade, sobre dependência estratégica. Os EUA impõem barreiras para impedir que Pequim domine semicondutores e inteligência artificial, forçando países da APEC como Coreia, Japão e Taiwan a se posicionarem.
+[Pausa de 3 segundos]
+Além disso, há o controle de Estreitos e Mares. A APEC inclui atores-chave no Estreito de Malaca e no Mar do Sul da China. O controle dessas rotas marítimas, vitais para o comércio de todos, é uma questão de soberania e poder militar, não de tarifas. Em resumo: O objetivo dos EUA é impedir que a China se torne a potência hegemônica. O objetivo da China é expandir sua influência e enfraquecer a credibilidade americana. O resultado na APEC é uma paralisia estratégica. O fórum não resolve disputas de soberania nem desarma tensões; ele apenas expõe a divisão do mundo em dois blocos."

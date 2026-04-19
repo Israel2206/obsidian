@@ -13,3 +13,27 @@
 |     |        |     |         |       |       |      |        |       |
 
 
+# Tabela de estudos
+
+| SEGUNDA       |                                      |     | QUINTA        |                          |     | DOMINGO       |                     |
+| ------------- | ------------------------------------ | --- | ------------- | ------------------------ | --- | ------------- | ------------------- |
+| 06h30 – 08h00 | **Conhecimentos Bancários**          |     | 19h00 – 20h00 | Conteúdos da escola      |     | 07h30 – 08h15 | **Português**       |
+| 08h15 – 09h15 | **Atualidades (Mercado Financeiro)** |     | 20h00 – 20h30 | **Inglês / Informática** |     | 08h15 – 09h00 | **Inglês**          |
+| 09h30 – 10h30 | **Matemática / Mat. Financeira**     |     | 20h30 – 21h30 | Calistenia + leitura     |     | 13h30 – 15h00 | Conteúdos da escola |
+| 19h00 – 20h00 | Conteúdos da escola                  |     |               |                          |     | 16h00 – 17h00 | **Atualidades**     |
+| 20h00 – 20h30 | Leitura                              |     |               |                          |     | 17h00 – 18h00 | **Informática**     |
+| 20h30 – 21h30 | Calistenia                           |     |               |                          |     |               |                     |
+
+| TERÇA         |                                        |     | SEXTA         |                             |     | SÁBADO        |                         |
+| ------------- | -------------------------------------- | --- | ------------- | --------------------------- | --- | ------------- | ----------------------- |
+| 19h00 – 20h00 | Conteúdos da escola                   |     | 06h30 – 08h00 | **Conhecimentos Bancários** |     | 07h30 – 09h00 | **Vendas e Negociação** |
+| 20h00 – 20h30 | **Inglês / Informática**              |     | 08h15 – 09h15 | **Atualidades**             |     | 13h30 – 15h00 | Conteúdos da escola     |
+| 20h30 – 21h30 | Calistenia + leitura                 |     | 09h30 – 10h30 | **Matemática**              |     | 16h00 – 17h00 | **Português**           |
+|               |                                        |     | 19h00 – 20h00 | Conteúdos da escola         |     | 17h00 – 18h00 | **Mat. Financeira**     |
+| QUARTA        |                                        |     |               |                             |     |               |                         |
+| 06h30 – 08h00 | **Conhecimentos Bancários**            |     |               |                             |     |               |                         |
+| 08h15 – 09h15 | **Atualidades**                        |     |               |                             |     |               |                         |
+| 09h30 – 10h30 | **Matemática / Mat. Financeira**       |     |               |                             |     |               |                         |
+| 19h00 – 20h00 | Conteúdos da escola                   |     |               |                             |     |               |                         |
+| 20h00 – 20h30 | Leitura                               |     |               |                             |     |               |                         |
+| 20h30 – 21h30 | Calistenia                            |     |               |                             |     |               |                         |

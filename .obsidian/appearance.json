@@ -1,4 +1,6 @@
 {
   "baseFontSize": 21,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "",
+  "accentColor": ""
 }

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "760b5be6ef5b6009",
+        "id": "9109b1fc2216f983",
         "type": "tabs",
         "children": [
           {
-            "id": "40f84f52ad43cb50",
+            "id": "ed636eb32dd77e46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco do Brasil/BB.md",
+                "file": "Banco do Brasil/Matérias/Conhecimentos Bancários/Ética e Moral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BB"
+              "title": "Ética e Moral"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3bf7ef958c5c8580",
@@ -180,30 +181,55 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "28646de3630435a3",
+  "active": "ed636eb32dd77e46",
   "lastOpenFiles": [
-    "Banco do Brasil/Matérias/Vendas e Negociação",
-    "Banco do Brasil/Matérias/Informática",
-    "Banco do Brasil/Matérias/Conhecimentos Bancários",
-    "Banco do Brasil/Matérias/Matemática Financeira",
-    "Banco do Brasil/Matérias/Língua Inglesa",
-    "Banco do Brasil/Conhecimentos Específicos/Conhecimentos Bancários/Assunto.md",
-    "Banco do Brasil/Matérias/Português",
-    "Banco do Brasil/Matérias/Matemática",
-    "Banco do Brasil/Matérias/Atualidades do Mercado Financeiro",
-    "Banco do Brasil/Matérias",
+    "imagens/Pasted image 20260422202923.png",
+    "Banco do Brasil/Matérias/Matemática/conjuntos númericos.md",
+    "Banco do Brasil/Matérias/Conhecimentos Bancários/Ética e Moral.md",
     "como estudar/ciclo de estudos.md",
+    "Banco do Brasil/Matérias/Informática/EXTRANET.md",
+    "Banco do Brasil/Matérias/Informática/INTERNET.md",
+    "Banco do Brasil/Matérias/Informática/INTRANET.md",
+    "internet.md",
+    "Banco do Brasil/Conhecimentos Específicos/Informática/Assunto.md",
+    "imagens/Pasted image 20260421095544.png",
+    "imagens/Pasted image 20260421133830.png",
+    "imagens/Pasted image 20260421133822.png",
+    "Banco do Brasil/Matérias/Língua Inglesa/PROCESSOS DE FORMAÇÃO DE PALAVRAS.md",
+    "imagens/Pasted image 20260421095600.png",
+    "imagens/Pasted image 20260421095552.png",
+    "imagens/Pasted image 20260421095538.png",
+    "Banco do Brasil/Matérias/Matemática Financeira/Montante.md",
     "Banco do Brasil/BB.md",
-    "geografia/Geopolitica.md",
-    "como estudar",
+    "Banco do Brasil/Matérias/Matemática Financeira/Juros Simples.md",
+    "Banco do Brasil/Matérias/Matemática Financeira/Juros Compostos.md",
+    "Banco do Brasil/Conhecimentos Específicos/Matemática Financeira/Assunto.md",
+    "Banco do Brasil/Matérias/Redação/Desenvolvimento.md",
+    "Banco do Brasil/Matérias/Redação/Repertório.md",
+    "escola/PORTUGUÊS/Estudo de como fazer um paragrafo.md",
+    "Banco do Brasil/Matérias/Redação",
+    "imagens/paragrafo.png",
+    "escola/REDES DE COMPUTADORES/Estudos para a prova; Maks e hosts.md",
+    "imagens",
+    "imagens/Pasted image 20260419173044.png",
+    "escola/SOCIOLOGIA",
+    "escola/FILOSOFIA",
+    "escola/REDES DE COMPUTADORES",
+    "escola/FÍSICA - III",
+    "escola/BIOLOGIA",
+    "escola/HISTÓRIA",
+    "escola/QUIMICA III",
+    "escola/PORTUGUÊS",
+    "Banco do Brasil/Conhecimentos Específicos/Conhecimentos Bancários/Assunto.md",
+    "escola/GEOGRAFIA/Geopolitica.md",
     "portugues.md",
-    "geografia",
-    "geografia/part4.md",
-    "geografia/part3.md",
-    "geografia/part2.md",
-    "geografia/part1.md"
+    "escola/GEOGRAFIA/part4.md",
+    "escola/GEOGRAFIA/part3.md",
+    "escola/GEOGRAFIA/part2.md",
+    "escola/GEOGRAFIA/part1.md"
   ]
 }

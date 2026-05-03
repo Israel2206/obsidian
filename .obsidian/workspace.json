@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9109b1fc2216f983",
+        "id": "2da67fcd68df9859",
         "type": "tabs",
         "children": [
           {
-            "id": "ed636eb32dd77e46",
+            "id": "0b1b65ab29fe252e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco do Brasil/Matérias/Conhecimentos Bancários/Ética e Moral.md",
+                "file": "Banco do Brasil/Matérias/Atualidades do Mercado Financeiro/Open Banking e Open Finance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ética e Moral"
+              "title": "Open Banking e Open Finance"
             }
           }
         ]
@@ -185,35 +185,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed636eb32dd77e46",
+  "active": "0b1b65ab29fe252e",
   "lastOpenFiles": [
+    "como estudar/A semana.md",
+    "Banco do Brasil/Matérias/Atualidades do Mercado Financeiro/Open Banking e Open Finance.md",
+    "Banco do Brasil/Matérias/Vendas e Negociação/Aprendizagem e Sustentabilidade Organizacional.md",
+    "Banco do Brasil/Matérias/Vendas e Negociação/Gestão da Experiência do Cliente na Área Bancária.md",
+    "Banco do Brasil/Matérias/Vendas e Negociação/Ações para aumentar o valor percebido pelo cliente.md",
+    "Banco do Brasil/Matérias/Atualidades do Mercado Financeiro/Canais Digitais e CBDC.md",
+    "Banco do Brasil/Matérias/Atualidades do Mercado Financeiro/CANAIS TRADICIONAIS.md",
+    "Banco do Brasil/Matérias/Atualidades do Mercado Financeiro/OS BANCOS NA ERA DIGITAL.md",
+    "Banco do Brasil/Matérias/Atualidades do Mercado Financeiro/Real Digital.md",
+    "Banco do Brasil/Conhecimentos Específicos/Informática/Assunto.md",
+    "Banco do Brasil/Matérias/Vendas e Negociação/Análise de Mercado.md",
+    "Banco do Brasil/Matérias/Vendas e Negociação/Segmentação de mercado.md",
+    "Banco do Brasil/Matérias/Vendas e Negociação/Imagem Institucional.md",
+    "Banco do Brasil/Matérias/Vendas e Negociação/Identidade e posicionamento.md",
+    "Banco do Brasil/Matérias/Vendas e Negociação/Forças Competitivas.md",
+    "ajeon.md",
+    "Banco do Brasil/Matérias/Conhecimentos Bancários/Noções de Ética profissional e empresarial.md",
+    "Banco do Brasil/Matérias/Conhecimentos Bancários/Virtudes.md",
+    "Banco do Brasil/Matérias/Conhecimentos Bancários/Ética e Moral.md",
+    "Banco do Brasil/Matérias/Conhecimentos Bancários/VALORES.md",
+    "Banco do Brasil/Matérias/Matemática/Exercícios.md",
     "imagens/Pasted image 20260422202923.png",
     "Banco do Brasil/Matérias/Matemática/conjuntos númericos.md",
-    "Banco do Brasil/Matérias/Conhecimentos Bancários/Ética e Moral.md",
     "como estudar/ciclo de estudos.md",
     "Banco do Brasil/Matérias/Informática/EXTRANET.md",
     "Banco do Brasil/Matérias/Informática/INTERNET.md",
     "Banco do Brasil/Matérias/Informática/INTRANET.md",
-    "internet.md",
-    "Banco do Brasil/Conhecimentos Específicos/Informática/Assunto.md",
     "imagens/Pasted image 20260421095544.png",
     "imagens/Pasted image 20260421133830.png",
     "imagens/Pasted image 20260421133822.png",
-    "Banco do Brasil/Matérias/Língua Inglesa/PROCESSOS DE FORMAÇÃO DE PALAVRAS.md",
     "imagens/Pasted image 20260421095600.png",
     "imagens/Pasted image 20260421095552.png",
     "imagens/Pasted image 20260421095538.png",
-    "Banco do Brasil/Matérias/Matemática Financeira/Montante.md",
-    "Banco do Brasil/BB.md",
-    "Banco do Brasil/Matérias/Matemática Financeira/Juros Simples.md",
-    "Banco do Brasil/Matérias/Matemática Financeira/Juros Compostos.md",
-    "Banco do Brasil/Conhecimentos Específicos/Matemática Financeira/Assunto.md",
-    "Banco do Brasil/Matérias/Redação/Desenvolvimento.md",
-    "Banco do Brasil/Matérias/Redação/Repertório.md",
-    "escola/PORTUGUÊS/Estudo de como fazer um paragrafo.md",
     "Banco do Brasil/Matérias/Redação",
     "imagens/paragrafo.png",
-    "escola/REDES DE COMPUTADORES/Estudos para a prova; Maks e hosts.md",
     "imagens",
     "imagens/Pasted image 20260419173044.png",
     "escola/SOCIOLOGIA",
@@ -223,13 +231,6 @@
     "escola/BIOLOGIA",
     "escola/HISTÓRIA",
     "escola/QUIMICA III",
-    "escola/PORTUGUÊS",
-    "Banco do Brasil/Conhecimentos Específicos/Conhecimentos Bancários/Assunto.md",
-    "escola/GEOGRAFIA/Geopolitica.md",
-    "portugues.md",
-    "escola/GEOGRAFIA/part4.md",
-    "escola/GEOGRAFIA/part3.md",
-    "escola/GEOGRAFIA/part2.md",
-    "escola/GEOGRAFIA/part1.md"
+    "escola/PORTUGUÊS"
   ]
 }

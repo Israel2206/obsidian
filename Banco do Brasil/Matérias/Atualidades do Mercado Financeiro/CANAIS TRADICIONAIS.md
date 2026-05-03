@@ -1,0 +1,13 @@
+**CANAIS TRADICIONAIS DE ATENDIMENTO -** Os canais tradicionais de atendimento de um banco correspondem as agências bancárias, tidas como pontos fixos e de livre acesso dos clientes e usuários; as máquinas de autoatendimento, as centrais de atendimento telefônico e os correspondentes bancários.
+
+Pensando em um dos segmentos mais tradicionais do mercado, as instituições financeiras, podemos identificar uma mudança cultural enorme nos últimos tempos. De acordo com dados do Banco Central, em meados de 2020 havia 565,3 milhões de contas poupança ou conta correntes ativas no País, um crescimento de 93,9 milhões, ou 20%, na comparação com o período pré-pandemia.
+
+É fato que o fluxo das agências nos grandes centros econômicos está cada vez menor e isso se dá por causa da grande evolução dos aplicativos e do internet banking, pois com eles é possível resolver uma gama de problemas cada vez maior. E como diversas pesquisas de mercado realizadas indicam que os principais motivadores dos clientes para se deslocarem para uma agência física é justamente a resolução de problemas, o impacto no fluxo é inevitável.
+
+As agências dos bancos mais tradicionais muitas vezes são divididas por segmentos do mercado para poder atender aos diferentes perfis de clientes. Do ponto de vista do espaço físico, essa estratégia pode gerar um custo operacional alto. Porém, com o aumento da utilização de soluções digitais, especialmente por pessoas de faixa etária alta, torna-se possível utilizar a mão de obra especializada nos canais digitais.
+
+Oferecer aos clientes soluções complementares que não estão diretamente ligadas às questões bancárias. O conceito de Ecossistema de Negócios vem com força para que a jornada do cliente seja mais completa ao ir até uma agência.
+
+Ressignificar a agência de forma com que ela seja ponto de destino do cliente, que por vontade própria passa a frequentar o espaço para fins não relacionados ao banco. Por exemplo, para reuniões de trabalho pessoais (funcionando como um coworking), tomar um café com amigos ou colegas de trabalho, entre outras experiências.
+
+Existe um mundo de possibilidades para transformar e agregar valor para os clientes utilizando o patrimônio já existente. Para chegar a soluções, basta colocar o cliente como foco e entender as suas atuais necessidades. Por isso, concluo esse artigo remetendo à pergunta do primeiro parágrafo – a ressignificação dos canais de vendas é essencial e se aplica a qualquer segmento do mercado. Não há quem escape.

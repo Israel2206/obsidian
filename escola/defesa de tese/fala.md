@@ -128,13 +128,3 @@ Além disso, o romance apresenta características importantes do Pré-Modernismo
 Ao mesmo tempo, a obra ainda mantém influências do Realismo e do Naturalismo, principalmente na preocupação com determinismo social e racial.”
 
 ---
-
-# CONCLUSÃO
-
-“Portanto, _Canaã_ é uma obra fundamental para compreender os debates sociais, raciais e culturais do Brasil no início do século XX.
-
-Graça Aranha apresenta reflexões modernas sobre imigração, miscigenação e identidade nacional, mas sua obra também revela as limitações do pensamento racial da época.
-
-Ao priorizar os imigrantes europeus e deixar a população negra praticamente invisível dentro da narrativa, _Canaã_ mostra como os projetos de construção da nação brasileira ainda aconteciam de maneira excludente.
-
-Assim, o romance se torna importante não apenas pelo que mostra, mas também pelo que silencia, revelando como a exclusão racial estava presente até mesmo em obras consideradas modernas para seu tempo.”

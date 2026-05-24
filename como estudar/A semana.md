@@ -14,3 +14,12 @@ Horas Estudadas: 17/23 Hrs
 Carga horária de vezes completa: 0
 ```
 
+
+```
+Questões feitas: 29
+Erros: 10
+
+porcentagem de Erros:
+
+```
+

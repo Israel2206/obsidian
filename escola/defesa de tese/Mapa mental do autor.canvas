@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"c5aa56f077547c95","type":"text","text":"Quem é Graça Aranha?","x":-380,"y":-360,"width":265,"height":60},
+		{"id":"5987e6831423d945","type":"text","text":"Ele era um intelectual considerado moderno para sua época. ","x":-700,"y":-202,"width":271,"height":122},
+		{"id":"a8ab51738376aba2","type":"text","text":"Apesar de sofrer influências racistas...","x":-689,"y":-2,"width":250,"height":85},
+		{"id":"1959e5d53ee768f6","type":"text","text":"Se formou em?","x":82,"y":-260,"width":189,"height":60},
+		{"id":"33ca68119f8146b4","type":"text","text":"Em qual período ele nasceu?","x":19,"y":-360,"width":314,"height":60},
+		{"id":"6a25accdbe9d6989","type":"text","text":"Ele defendia?","x":-776,"y":243,"width":250,"height":50},
+		{"id":"eb1374d3388cca74","type":"text","text":"Refletia?","x":-776,"y":406,"width":250,"height":60},
+		{"id":"826b8d3e62f88dda","type":"text","text":"Que inspirou Graça Aranha em?","x":-199,"y":107,"width":250,"height":60},
+		{"id":"0c0d52281316bf57","type":"text","text":"Ele teve contato direto com?","x":-247,"y":-2,"width":250,"height":60},
+		{"id":"b0fcb88df02de329","type":"text","text":"qual o seu posicionamento?","x":-247,"y":-262,"width":250,"height":100},
+		{"id":"dcdef1088eb517b2","type":"text","text":"em 1897 fundou?","x":-464,"y":117,"width":220,"height":50},
+		{"id":"00ce2953e532e7c9","type":"text","text":"Essa experiência foi importante para?","x":3,"y":-110,"width":250,"height":60},
+		{"id":"296b777fd5e04591","type":"text","text":"Além da literatura, ele seguiu?","x":-106,"y":600,"width":250,"height":79},
+		{"id":"ab085b4c8386398f","type":"text","text":"Quando retornou ele participou de qual organização?","x":146,"y":449,"width":250,"height":117},
+		{"id":"d1e5897334dbee54","type":"text","text":"por considera-lá?","x":311,"y":268,"width":250,"height":60},
+		{"id":"5383fdf40767a2fb","type":"text","text":"Faleceu em?","x":271,"y":107,"width":168,"height":56},
+		{"id":"29e1b818f3ab969a","type":"text","text":"Em 1924, ele rompeu com?","x":-43,"y":328,"width":250,"height":83},
+		{"id":"3e15a6a4145c6d37","type":"text","text":"Por conta disso ele é considerado?","x":-400,"y":310,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b873a7d9dae143f5","fromNode":"c5aa56f077547c95","fromSide":"right","toNode":"33ca68119f8146b4","toSide":"left"},
+		{"id":"e825e9ddaf856c1f","fromNode":"0c0d52281316bf57","fromSide":"bottom","toNode":"826b8d3e62f88dda","toSide":"top"},
+		{"id":"3f672013418ae148","fromNode":"c5aa56f077547c95","fromSide":"left","toNode":"5987e6831423d945","toSide":"top"},
+		{"id":"e7ced5d7a2bbf603","fromNode":"5987e6831423d945","fromSide":"bottom","toNode":"a8ab51738376aba2","toSide":"top"},
+		{"id":"dad8f5234e873589","fromNode":"a8ab51738376aba2","fromSide":"bottom","toNode":"6a25accdbe9d6989","toSide":"top"},
+		{"id":"38001e13e9dddcac","fromNode":"6a25accdbe9d6989","fromSide":"bottom","toNode":"eb1374d3388cca74","toSide":"top"},
+		{"id":"1e6abf2ab4dbfc0b","fromNode":"3e15a6a4145c6d37","fromSide":"right","toNode":"296b777fd5e04591","toSide":"left"},
+		{"id":"1898763f1d1a2343","fromNode":"ab085b4c8386398f","fromSide":"left","toNode":"29e1b818f3ab969a","toSide":"bottom"},
+		{"id":"f50b6f8d9ed99971","fromNode":"29e1b818f3ab969a","fromSide":"right","toNode":"d1e5897334dbee54","toSide":"left"},
+		{"id":"faa4a50a32dae46d","fromNode":"5383fdf40767a2fb","fromSide":"left","toNode":"d1e5897334dbee54","toSide":"left"},
+		{"id":"eab9fc5ce693265d","fromNode":"33ca68119f8146b4","fromSide":"bottom","toNode":"1959e5d53ee768f6","toSide":"top"},
+		{"id":"bce47616522526af","fromNode":"00ce2953e532e7c9","fromSide":"left","toNode":"b0fcb88df02de329","toSide":"bottom"},
+		{"id":"8a5eee96c6e44363","fromNode":"b0fcb88df02de329","fromSide":"right","toNode":"1959e5d53ee768f6","toSide":"left"},
+		{"id":"318bfe3775b8070d","fromNode":"dcdef1088eb517b2","fromSide":"top","toNode":"b0fcb88df02de329","toSide":"left"},
+		{"id":"89cf008858afd76e","fromNode":"0c0d52281316bf57","fromSide":"top","toNode":"00ce2953e532e7c9","toSide":"left"},
+		{"id":"2a921886d7455088","fromNode":"b0fcb88df02de329","fromSide":"bottom","toNode":"00ce2953e532e7c9","toSide":"left"},
+		{"id":"74afd197649aec13","fromNode":"296b777fd5e04591","fromSide":"right","toNode":"ab085b4c8386398f","toSide":"bottom"},
+		{"id":"bdfe09309ae30863","fromNode":"eb1374d3388cca74","fromSide":"right","toNode":"3e15a6a4145c6d37","toSide":"left"},
+		{"id":"abf3f5b801f21d90","fromNode":"6a25accdbe9d6989","fromSide":"right","toNode":"3e15a6a4145c6d37","toSide":"left"}
+	]
+}

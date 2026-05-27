@@ -10,13 +10,7 @@ Desde jovem, Graça Aranha demonstrava posicionamentos republicanos e abolicioni
 
 No Espírito Santo, ele entrou em contato com colônias de imigrantes alemães, com antigos escravizados e com os conflitos sociais existentes naquela região logo após a abolição da escravidão. Toda essa realidade serviu como inspiração para o romance.
 
-Além da carreira literária, Graça Aranha também seguiu carreira diplomática e viveu cerca de vinte anos na Europa. Esse contato com as vanguardas artísticas e filosóficas europeias influenciou bastante sua visão de mundo e sua produção intelectual.
-
-Quando retornou ao Brasil, participou ativamente do movimento modernista e esteve presente na Semana de Arte Moderna de 1922, sendo responsável pelo discurso de abertura do evento.
-
-Por possuir uma postura considerada moderna para a época e defender a renovação cultural brasileira, Graça Aranha é visto como um dos principais autores do Pré-Modernismo brasileiro.
-
-Mesmo assim, sua obra ainda apresenta influências das teorias raciais do início do século XX, o que aparece claramente em _Canaã_.”
+Graça Aranha também seguiu carreira diplomática e viveu cerca de vinte anos na Europa. Esse contato com as vanguardas artísticas e filosóficas europeias influenciou bastante sua visão de mundo e sua produção intelectual.
 
 ---
 
@@ -29,8 +23,6 @@ Nesse período, o país passava por grandes mudanças políticas, sociais e econ
 Ao mesmo tempo, o governo incentivava fortemente a imigração europeia, principalmente alemã e italiana. Muitos acreditavam que a chegada de europeus ajudaria no desenvolvimento econômico e no chamado ‘embranquecimento’ da população brasileira.
 
 As teorias raciais e o determinismo científico eram muito influentes naquele período. Muitos intelectuais acreditavam que existiam raças superiores e inferiores, e defendiam a ideia de que o progresso do Brasil dependia da aproximação com os padrões europeus.
-
-Por isso, mesmo depois da abolição, a população negra continuava excluída socialmente, sem acesso à terra, educação ou inclusão econômica.
 
 É justamente dentro desse cenário que _Canaã_ foi escrito.”
 
@@ -106,25 +98,4 @@ Ao tentar ajudá-la, Milkau começa a enxergar o chamado ‘Brasil real’, perc
 
 # PRÉ-MODERNISMO
 
-“Essas características fazem com que _Canaã_ seja considerado um dos principais romances do Pré-Modernismo brasileiro.
-
-A obra rompe parcialmente com a literatura tradicional do século XIX ao trazer uma visão mais crítica da realidade nacional.
-
-Além disso, o romance apresenta características importantes do Pré-Modernismo, como:
-
-- crítica social;
-    
-- discussão sobre identidade nacional;
-    
-- análise psicológica dos personagens;
-    
-- representação do interior brasileiro;
-    
-- denúncia das desigualdades sociais;
-    
-- reflexão sobre raça e imigração.
-    
-
-Ao mesmo tempo, a obra ainda mantém influências do Realismo e do Naturalismo, principalmente na preocupação com determinismo social e racial.”
-
----
+"Essas características fazem de _Canaã_ um grande marco do Pré-Modernismo brasileiro."

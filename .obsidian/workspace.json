@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba1f914eed0c92de",
+        "id": "cec35783594e7a3a",
         "type": "tabs",
         "children": [
           {
-            "id": "9a388b09c2730862",
+            "id": "484637f1ed2c6ec5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,23 @@
               },
               "icon": "lucide-file",
               "title": "fala"
+            }
+          },
+          {
+            "id": "7d807aa8c8b57432",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": -1150.5,
+                  "y": -665.5,
+                  "zoom": -0.6839221846106041
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
             }
           }
         ]
@@ -78,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3bf7ef958c5c8580",
@@ -184,19 +202,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a388b09c2730862",
+  "active": "484637f1ed2c6ec5",
   "lastOpenFiles": [
-    "escola/defesa de tese/Autor.md",
     "como estudar/A semana.md",
+    "escola/defesa de tese/fala.md",
+    "Sem título.canvas",
+    "escola/defesa de tese/palavras.md",
+    "escola/defesa de tese/Mapa do Livro.canvas",
+    "escola/defesa de tese/Autor.md",
+    "escola/defesa de tese/fala sobre o autor.md",
     "Banco do Brasil/Matérias/Português/Empregos de Letras.md",
     "Banco do Brasil/Conhecimentos Específicos/Informática/Assunto.md",
     "como estudar/ciclo de estudos.md",
-    "escola/defesa de tese/fala.md",
-    "escola/defesa de tese/fala sobre o autor.md",
     "escola/defesa de tese/fala sobre o livro.md",
     "escola/defesa de tese/mapa_conceitual_canaa.canvas",
     "escola/defesa de tese/Mapa mental do autor.canvas",
-    "escola/defesa de tese/Mapa do Livro.canvas",
     "escola/defesa de tese/Livro.md",
     "teste.md",
     "escola/defesa de tese",
@@ -214,8 +234,6 @@
     "Banco do Brasil/Matérias/Atualidades do Mercado Financeiro/OS BANCOS NA ERA DIGITAL.md",
     "Banco do Brasil/Matérias/Atualidades do Mercado Financeiro/Real Digital.md",
     "Banco do Brasil/Matérias/Vendas e Negociação/Análise de Mercado.md",
-    "Banco do Brasil/Matérias/Vendas e Negociação/Segmentação de mercado.md",
-    "Banco do Brasil/Matérias/Vendas e Negociação/Imagem Institucional.md",
     "imagens/Pasted image 20260422202923.png",
     "imagens/Pasted image 20260421095544.png",
     "imagens/Pasted image 20260421133830.png",
